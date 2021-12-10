@@ -1,0 +1,11 @@
+/home/student/workspace/Pages/bin/Release/net5.0/publish/Pages
+/home/student/workspace/Pages/bin/Release/net5.0/publish/appsettings.Development.json
+/home/student/workspace/Pages/bin/Release/net5.0/publish/appsettings.json
+/home/student/workspace/Pages/bin/Release/net5.0/publish/Pages.dll
+/home/student/workspace/Pages/bin/Release/net5.0/publish/Pages.deps.json
+/home/student/workspace/Pages/bin/Release/net5.0/publish/Pages.runtimeconfig.json
+/home/student/workspace/Pages/bin/Release/net5.0/publish/Pages.pdb
+/home/student/workspace/Pages/bin/Release/net5.0/publish/Microsoft.OpenApi.dll
+/home/student/workspace/Pages/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/student/workspace/Pages/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/student/workspace/Pages/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
